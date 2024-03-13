@@ -48,8 +48,8 @@
             # System
             # IOKit
             # Security
-            # CoreFoundation
-            # AppKit
+            CoreFoundation
+            AppKit
           ]);
         };
       }

@@ -1,3 +1,5 @@
+use icy::App;
+
 fn main() {
-    println!("Hello, world!");
+    App::new().run();
 }
